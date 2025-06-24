@@ -10,7 +10,7 @@ Hello! I'm a **security professional** and **developer** with expertise in **Web
 - 🌱 Currently diving deep into **Rust**, **Golang**, and **advanced threat detection techniques**.
 - 🔭 Working on **security tools** and **threat intelligence platforms**.
 - 💬 Ask me about **Web Security**, **Threat Hunting**, **Secure Development**, and **Security Infrastructure**.
-- 📫 Reach me at: **[Your Email/LinkedIn]**.
+- 📫 Reach me at: **[vpsanta3@gmail.com]**.
 - ⚡ Fun fact: I love **reverse engineering** and **CTF challenges**!
 
 ---
