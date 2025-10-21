@@ -55,15 +55,9 @@ Hello! I'm a **security professional** and **developer** with expertise in **Web
 ---
 
 ## 📚 Featured Projects
-- **[Web Security Scanner](#)**: A custom-built tool for scanning and identifying web vulnerabilities.
-- **[Threat Intelligence Platform](#)**: A platform for collecting, analyzing, and sharing threat intelligence data.
-- **[Secure DevOps Pipeline](#)**: Integrating security into CI/CD pipelines for automated vulnerability detection.
+- **[Moon-Gazing-Tower](#)**: An asset reconnaissance and management system based on Golang + React, for asset management and authorized testing for security teams.
+- **[VulnArk](#)**: A vulnerability management platform built with Go, supporting an AI assistant feature.
+- **[CTI-Platform](#)**: A comprehensive web-based platform for managing cyber threat intelligence, indicators of compromise (IOCs), threat actors, campaigns, and security analysis.
 
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)
 
 Thanks for stopping by! Let's make the digital world safer together. 😊
