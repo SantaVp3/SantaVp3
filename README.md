@@ -55,8 +55,8 @@ Hello! I'm a **security professional** and **developer** with expertise in **Web
 ---
 
 ## 📚 Featured Projects
-- **[Moon-Gazing-Tower](#)**: An asset reconnaissance and management system based on Golang + React, for asset management and authorized testing for security teams.
-- **[VulnArk](#)**: A vulnerability management platform built with Go, supporting an AI assistant feature.
+- **[Moon-Gazing-Tower](https://github.com/SantaVp3/Moon-Gazing-Tower)**: An asset reconnaissance and management system based on Golang + React, for asset management and authorized testing for security teams.
+- **[VulnArk](https://github.com/SantaVp3/VulnArk)**: A vulnerability management platform built with Go, supporting an AI assistant feature.
 - **[CTI-Platform](#)**: A comprehensive web-based platform for managing cyber threat intelligence, indicators of compromise (IOCs), threat actors, campaigns, and security analysis.
 
 
